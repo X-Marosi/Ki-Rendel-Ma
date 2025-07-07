@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "react-custom-roulette": "^1.4.1",
+    "tailwindcss": "^4.1.11"
+  }
+}
